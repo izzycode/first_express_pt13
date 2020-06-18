@@ -1,0 +1,11 @@
+{
+  "name": "first-express-project",
+  "version": "1.0.0",
+  "description": "My first Experss server with PT13",
+  "main": "index.js",
+  "author": "Izzy",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
